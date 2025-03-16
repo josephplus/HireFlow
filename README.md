@@ -5,18 +5,24 @@ Test your resume against real Applicant Tracking Systems (ATS) with Hireflow. Ou
 
 ## Features
 
-### Smart ATS Resume Checker: Our advanced AI technology analyzes your resume based on actual ATS requirements. Receive instant feedback on formatting, structure, and content to ensure your resume successfully navigates Applicant Tracking Systems.
+### Smart ATS Resume Checker
+
+Our advanced AI technology analyzes your resume based on actual ATS requirements. Receive instant feedback on formatting, structure, and content to ensure your resume successfully navigates Applicant Tracking Systems.
 
 - Instant format compatibility checks.
 - Professional formatting suggestions.
 - Highlights key skill areas (e.g., 75% proficiency in JavaScript, React, Python - example only).
 
-### Smart Keyword Analysis: Our intelligent system identifies crucial skills and qualifications from the job descriptions you provide and matches them against your resume. Gain detailed insights into which keywords are present and which are missing.
+### Smart Keyword Analysis
+
+Our intelligent system identifies crucial skills and qualifications from the job descriptions you provide and matches them against your resume. Gain detailed insights into which keywords are present and which are missing.
 
 - Automatic keyword extraction from job descriptions.
 - Suggestions for relevant, industry-specific terms.
 
-### Match Score Analysis: Get a clear understanding of how well your resume aligns with the specific job requirements. Our match score analysis pinpoints your application's strengths and areas needing improvement.
+### Match Score Analysis
+
+Get a clear understanding of how well your resume aligns with the specific job requirements. Our match score analysis pinpoints your application's strengths and areas needing improvement.
 
 - Provides a detailed match percentage.
 - Offers personalized suggestions for enhancement.
